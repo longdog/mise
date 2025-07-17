@@ -1,5 +1,16 @@
 # Changelog
 
+## [2025.7.12](https://github.com/jdx/mise/compare/v2025.7.11..v2025.7.12) - 2025-07-17
+
+### 🐛 Bug Fixes
+
+- **(npm)** run bun in install_path instead of using --cwd flag of bun by [@risu729](https://github.com/risu729) in [#5656](https://github.com/jdx/mise/pull/5656)
+
+### Chore
+
+- update deps by [@risu729](https://github.com/risu729) in [#5657](https://github.com/jdx/mise/pull/5657)
+- update usage by [@risu729](https://github.com/risu729) in [#5661](https://github.com/jdx/mise/pull/5661)
+
 ## [2025.7.11](https://github.com/jdx/mise/compare/v2025.7.10..v2025.7.11) - 2025-07-16
 
 ### 🚀 Features
